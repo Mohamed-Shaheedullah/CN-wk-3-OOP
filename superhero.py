@@ -14,6 +14,9 @@ class Superhero():
     def name_length(self):
         print(len(self.name))
 
+    def transform(self):
+        print(f"{self.name} has transformed into {self.identity}")
+
     ## setters
         
     # def set_lair(self, lair):

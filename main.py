@@ -54,3 +54,5 @@ print(" ")
 # print(ironman.lair)
 
 print(ironman.get_power())
+
+drstrange.transform()
